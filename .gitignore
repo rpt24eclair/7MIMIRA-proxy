@@ -3,9 +3,5 @@ node_modules
 *.sh
 .DS_Store
 *.env
-<<<<<<< HEAD
 bundle.*
 newrelic.js
-=======
-bundle.*
->>>>>>> 190c429be450d6fd337722561821c206ea655547
