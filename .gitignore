@@ -1,7 +1,0 @@
-node_modules
-*.pem
-*.sh
-.DS_Store
-*.env
-bundle.*
-newrelic.js
